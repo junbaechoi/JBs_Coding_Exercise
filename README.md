@@ -1,2 +1,2 @@
-# Junbae_Choi
-Junbae Choi's Assignment Folder
+# Coding Exercise
+Junbae Choi's Coding Exercise Folder
